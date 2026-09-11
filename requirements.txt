@@ -1,0 +1,2 @@
+# PyScan currently uses Python standard libraries.
+# No external packages are required.
